@@ -1,0 +1,269 @@
+==================== Round 1 =====================
+
+==> Qurey: columbia
+
+******************** Result 1 ********************
+URL: http://www.columbia.com/
+Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+Description: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+
+Relevant? false
+**************************************************
+
+******************** Result 2 ********************
+URL: http://www.columbia.edu/
+Title: Columbia University in the City of New York
+Description: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+
+Relevant? true
+**************************************************
+
+******************** Result 3 ********************
+URL: http://en.wikipedia.org/wiki/Columbia
+Title: Columbia - Wikipedia, the free encyclopedia
+Description: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+
+Relevant? false
+**************************************************
+
+******************** Result 4 ********************
+URL: http://en.wikipedia.org/wiki/Colombia
+Title: Colombia - Wikipedia, the free encyclopedia
+Description: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+
+Relevant? false
+**************************************************
+
+******************** Result 5 ********************
+URL: http://columbiasc.net/
+Title: :: Welcome to the City of Columbia ::
+Description: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+
+Relevant? false
+**************************************************
+
+******************** Result 6 ********************
+URL: http://www.gocolumbiamo.com/
+Title: City of Columbia, Missouri's Official Government Web Site
+Description: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+
+Relevant? false
+**************************************************
+
+******************** Result 7 ********************
+URL: http://www.college.columbia.edu/
+Title: Columbia College | Columbia College
+Description: Columbia College is pleased to share the Columbia College Annual Report 2013–2014, which celebrates our students’ and faculty members’ achievements, thanks our ...
+
+Relevant? true
+**************************************************
+
+******************** Result 8 ********************
+URL: http://www.parks.ca.gov/?page_id=552
+Title: Columbia SHP - California State Parks
+Description: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+
+Relevant? false
+**************************************************
+
+******************** Result 9 ********************
+URL: http://www.columbiacvb.com/
+Title: Columbia SC Official Website | Events, Restaurants, Hotels ...
+Description: Find official travel information about Columbia, SC, including hotels, restaurants, events, and more from the online travel resource of Columbia, South Carolina, the ...
+
+Relevant? false
+**************************************************
+
+******************** Result 10 ********************
+URL: http://www.colum.edu/
+Title: Columbia College Chicago
+Description: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+
+Relevant? false
+**************************************************
+
+==> Precision: 0.2
+
+
+
+==================== Round 2 =====================
+
+==> Qurey: columbia college york
+
+******************** Result 1 ********************
+URL: http://www.columbia.edu/
+Title: Columbia University in the City of New York
+Description: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+
+Relevant? true
+**************************************************
+
+******************** Result 2 ********************
+URL: http://www.college.columbia.edu/
+Title: Columbia College | Columbia College
+Description: Columbia College is pleased to share the Columbia College Annual Report 2013–2014, ... Columbia University in the City of New York 208 Hamilton Hall, Mail Code 2805
+
+Relevant? true
+**************************************************
+
+******************** Result 3 ********************
+URL: http://www.ccis.edu/
+Title: Columbia College: On Campus & Online - Associate, Bachelor ...
+Description: Columbia College Columbia College, providing adult education, distance learning, online degrees and education at more than 30 campuses across the country. Get an ...
+
+Relevant? false
+**************************************************
+
+******************** Result 4 ********************
+URL: http://www.columbia.edu/content/admissions.html
+Title: Admissions | Columbia University in the City of New York
+Description: For information on admission to a Columbia school, select the appropriate school from the drop-down menu on the right.
+
+Relevant? true
+**************************************************
+
+******************** Result 5 ********************
+URL: http://www.tc.columbia.edu/
+Title: Graduate School of Education | Teachers College Columbia ...
+Description: Teachers College, Columbia University, is the oldest and largest graduate school of education in the United States, and also perennially ranked among the nation's best.
+
+Relevant? true
+**************************************************
+
+******************** Result 6 ********************
+URL: http://www8.gsb.columbia.edu/
+Title: Home | Columbia Business School
+Description: Columbia Business School brings a global perspective, cutting-edge methodology, and the energy of New York City to its MBA, EMBA, Executive Education, PhD, and MS ...
+
+Relevant? true
+**************************************************
+
+******************** Result 7 ********************
+URL: http://www.colum.edu/
+Title: Columbia College Chicago
+Description: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+
+Relevant? false
+**************************************************
+
+******************** Result 8 ********************
+URL: http://www.ccis.edu/nationwide/main.asp?syracuse
+Title: Columbia College New York - Hancock Field Syracuse
+Description: Looking for a convenient New York college degree program? Columbia College New York at Hancock Field in Syracuse offers affordable higher education specifically ...
+
+Relevant? false
+**************************************************
+
+******************** Result 9 ********************
+URL: http://en.wikipedia.org/wiki/Columbia_university
+Title: Columbia University - Wikipedia, the free encyclopedia
+Description: Columbia University in the City of New York, or simply Columbia University, is an American private Ivy League research university located in the Morningside Heights ...
+
+Relevant? true
+**************************************************
+
+******************** Result 10 ********************
+URL: http://en.wikipedia.org/wiki/Columbia_College,_Columbia_University
+Title: Columbia College, Columbia University - Wikipedia, the ...
+Description: Columbia College is the oldest undergraduate college at Columbia University, situated on the university's main campus in Morningside Heights in the borough of ...
+
+Relevant? true
+**************************************************
+
+==> Precision: 0.7
+
+
+
+==================== Round 3 =====================
+
+==> Qurey: york college columbia school university
+
+******************** Result 1 ********************
+URL: http://www.columbia.edu/
+Title: Columbia University in the City of New York
+Description: Columbia University in the City of New York. ... THE ARTS AT COLUMBIA. ... Schools; Departments; Financial Aid; Areas of Study;
+
+Relevant? true
+**************************************************
+
+******************** Result 2 ********************
+URL: http://www.columbia.edu/content/schools.html
+Title: Schools | Columbia University in the City of New York
+Description: Columbia University in the City of New York. ... Columbia Business School's global education prepares students for lifetime leadership in any ... Columbia College ...
+
+Relevant? true
+**************************************************
+
+******************** Result 3 ********************
+URL: http://www.college.columbia.edu/
+Title: Columbia College, Columbia University
+Description: Columbia College is pleased to share the Columbia College Annual Report 2013–2014, ... Columbia University in the City of New York 208 Hamilton Hall, Mail Code 2805
+
+Relevant? true
+**************************************************
+
+******************** Result 4 ********************
+URL: http://en.wikipedia.org/wiki/Columbia_university
+Title: Columbia University - Wikipedia, the free encyclopedia
+Description: Columbia University in the City of New York, or simply Columbia University, ... the Deans of Columbia College and the Graduate School of Arts and ...
+
+Relevant? true
+**************************************************
+
+******************** Result 5 ********************
+URL: http://www.matchcollege.com/private-colleges/columbia-university-in-the-city-of-new-york
+Title: Columbia University in the City of New York (Columbia ...
+Description: Interested in Attending Columbia University in the City of New York ... City of New York include: Columbia College; School of ... Columbia University school colors ...
+
+Relevant? true
+**************************************************
+
+******************** Result 6 ********************
+URL: https://bigfuture.collegeboard.org/college-university-search/columbia-university#!
+Title: College Search - Columbia University - BigFuture - Get ...
+Description: Columbia University: ... New York, NY 10027 . www.columbia.edu . ... Middle States Association of Colleges and Schools . College Board Member .
+
+Relevant? true
+**************************************************
+
+******************** Result 7 ********************
+URL: http://colleges.fastweb.com/c-columbia-university-in-the-city-of-new-york
+Title: Columbia University in the City of New York - Fastweb
+Description: Columbia University in the City of New York, ... Columbia College in 1784. The University now operates ... as well as the Juilliard School. Columbia annually ...
+
+Relevant? true
+**************************************************
+
+******************** Result 8 ********************
+URL: http://colleges.usnews.rankingsandreviews.com/best-colleges/columbia-university-2707
+Title: Columbia University | Best College | US News
+Description: Summary. Columbia University is a private institution that was founded in 1754. It has a total undergraduate enrollment of 6,084 ...
+
+Relevant? true
+**************************************************
+
+******************** Result 9 ********************
+URL: http://www.tc.columbia.edu/
+Title: Teachers College, Columbia University - Graduate School of ...
+Description: Teachers College, Columbia University, is the oldest and largest graduate school of education in the United States, and also perennially ranked among the nation's best.
+
+Relevant? true
+**************************************************
+
+******************** Result 10 ********************
+URL: http://ce.columbia.edu/high-school/nyc
+Title: Summer Programs for High School Students | New York City ...
+Description: Summer Programs For High School Students New York City. ... Columbia University School of Continuing Education 203 Lewisohn Hall 2970 Broadway, MC 4119 New York, ...
+
+Relevant? true
+**************************************************
+
+==> Precision: 1.0
+
+
+
+
+
+
+
+
