@@ -3,23 +3,23 @@ An information retrieval system that exploits user-provided relevance feedback t
 
 ## Submitted Files
 
-    Source Code
-    ==============================
-    1) Main.java
-    2) Entry.java
-    3) BingSearch.java
-    4) QueryExpansion.java
-    5) WeightComparator.java
+Source Code
+==============================
+1) Main.java
+2) Entry.java
+3) BingSearch.java
+4) QueryExpansion.java
+5) WeightComparator.java
 
-    External Libraries
-    ==============================
-    6) stopwords.txt
-    7) org-apache-commons-codec.jar
+External Libraries
+==============================
+6) stopwords.txt
+7) org-apache-commons-codec.jar
 
-    Test Results & Documentation
-    ==============================
-    10) README
-    11) transcript.txt
+Test Results & Documentation
+==============================
+10) README
+11) transcript.txt
 
 
 ----------------------------------------------------
