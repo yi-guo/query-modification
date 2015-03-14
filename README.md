@@ -26,9 +26,8 @@ An information retrieval system that exploits user-provided relevance feedback t
 
 A well-written make file and shell script for automated compilation and execution are attached. To run, please follow the below steps.
 
-    1) Put all the above files under a directory
-    2) Navigate to the directory
-    3) Issue the command
+    1) Move all the above files under the same directory
+    2) Navigate to the directory and issue the command
 
         $ sh run.sh <Bing account key> <precision> <query>
 
@@ -36,7 +35,7 @@ A well-written make file and shell script for automated compilation and executio
 
         $ sh run.sh Mi52d4RiLu5mnooSxjjVqaBNDl828jNk1y37isj9NYg 0.9 gates
 
-    4) (Optional) To delete all the .class files when finished, simply issue
+    3) (Optional) To delete all the .class files when finished, simply issue
 
         $ make clean
 
