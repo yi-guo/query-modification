@@ -31,7 +31,7 @@ An information retrieval system that exploits user-provided relevance feedback t
 
 A well-written makefile and shell script for automated compilation and execution are attached. To run, please follow the below steps.
 
-    1) Move all the above files under the same directory
+    1) Move all the files above except 10 & 11 under the same directory
     2) Navigate to the directory and issue the command
 
         $ sh run.sh <Bing account key> <precision> <query>
