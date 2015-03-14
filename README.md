@@ -16,6 +16,11 @@ An information retrieval system that exploits user-provided relevance feedback t
     6) stopwords.txt
     7) org-apache-commons-codec.jar
     
+    Automation Tools
+    ==============================
+    8) run.sh
+    9) makefile
+    
     Test Results & Documentation
     ==============================
     10) README
@@ -24,7 +29,7 @@ An information retrieval system that exploits user-provided relevance feedback t
 
 ## Command Line Instructions
 
-A well-written make file and shell script for automated compilation and execution are attached. To run, please follow the below steps.
+A well-written makefile and shell script for automated compilation and execution are attached. To run, please follow the below steps.
 
     1) Move all the above files under the same directory
     2) Navigate to the directory and issue the command
