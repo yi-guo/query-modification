@@ -66,7 +66,7 @@ Upon running, the program performs the following procedures.
 
 The query modification in this program strictly follows Rocchio algorithm. The program applies the recommended constants in the Introduction to Information Retrieval textbook where alpha = 1, beta = 0.75, gamma = 0.15.
 
-Specifically, a query is modified given the weights in the modified query vector computed following the algorithm. That is,
+Specifically, a query is modified given the weights in the modified query vector computed following the algorithm.
 
     Modified query vector = alpha * initial query vector + beta * sum(relevant document vector) / number of relevant documents - gamma * sum(non-relevant document vector) / number of non-relevant documents
 
