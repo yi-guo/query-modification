@@ -33,7 +33,7 @@ A well-written make file and shell script for automated compilation and executio
 
        For example, to query "gates" at a target precision of 0.9, simply issue
 
-        $ sh run.sh Mi52d4RiLu5mnooSxjjVqaBNDl828jNk1y37isj9NYg 0.9 gates
+        $ sh run.sh <Bing account key> 0.9 gates
 
     3) (Optional) To delete all the .class files when finished, simply issue
 
