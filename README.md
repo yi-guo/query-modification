@@ -1,9 +1,7 @@
 # query-modification
 An information retrieval system that exploits user-provided relevance feedback to improve the search results returned by Bing.
 
-----------------------------------------------------
-1. Submitted Files
-----------------------------------------------------
+## Submitted Files
 
     Source Code
     ==============================
@@ -18,14 +16,9 @@ An information retrieval system that exploits user-provided relevance feedback t
     6) stopwords.txt
     7) org-apache-commons-codec.jar
 
-    Automation Tools
-    ==============================
-    8) run.sh
-    9) makefile
-
     Test Results & Documentation
     ==============================
-    10) README.txt
+    10) README
     11) transcript.txt
 
 
@@ -51,8 +44,6 @@ A well-written make file and shell script for automated compilation and executio
 
         $ make clean
 
-
-----------------------------------------------------
 3. Design and Implementation
 ----------------------------------------------------
 
@@ -72,7 +63,6 @@ Upon running, the program performs the following procedures.
     12) Repeat step 3 to 12 with the new query until precision is 0 or target precision is accomplished.
 
 
-----------------------------------------------------
 4. Query Modification Method
 ----------------------------------------------------
 
