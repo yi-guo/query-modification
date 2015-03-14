@@ -26,17 +26,15 @@ An information retrieval system that exploits user-provided relevance feedback t
 
 A well-written make file and shell script for automated compilation and execution are attached. To run, please follow the below steps.
 
-    1) Unzip all the files
-    2) Navigate to yg2389-proj1/
-    3) Issue the following command
+    1) Put all the above files under a directory
+    2) Navigate to the directory
+    3) Issue the command
 
         $ sh run.sh <Bing account key> <precision> <query>
 
        For example, to query "gates" at a target precision of 0.9, simply issue
 
         $ sh run.sh Mi52d4RiLu5mnooSxjjVqaBNDl828jNk1y37isj9NYg 0.9 gates
-
-       The makefile will automatically compile all the Java source code (if not yet compiled) and run the requested query.
 
     4) (Optional) To delete all the .class files when finished, simply issue
 
