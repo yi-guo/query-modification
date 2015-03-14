@@ -3,28 +3,26 @@ An information retrieval system that exploits user-provided relevance feedback t
 
 ## Submitted Files
 
-Source Code
-==============================
-1) Main.java
-2) Entry.java
-3) BingSearch.java
-4) QueryExpansion.java
-5) WeightComparator.java
+    Source Code
+    ==============================
+    1) Main.java
+    2) Entry.java
+    3) BingSearch.java
+    4) QueryExpansion.java
+    5) WeightComparator.java
+    
+    External Libraries
+    ==============================
+    6) stopwords.txt
+    7) org-apache-commons-codec.jar
+    
+    Test Results & Documentation
+    ==============================
+    10) README
+    11) transcript.txt
 
-External Libraries
-==============================
-6) stopwords.txt
-7) org-apache-commons-codec.jar
 
-Test Results & Documentation
-==============================
-10) README
-11) transcript.txt
-
-
-----------------------------------------------------
-2. Command Line Instructions
-----------------------------------------------------
+## Command Line Instructions
 
 A well-written make file and shell script for automated compilation and execution are attached. To run, please follow the below steps.
 
@@ -44,8 +42,7 @@ A well-written make file and shell script for automated compilation and executio
 
         $ make clean
 
-3. Design and Implementation
-----------------------------------------------------
+## Design and Implementation
 
 Upon running, the program performs the following procedures.
 
@@ -63,8 +60,7 @@ Upon running, the program performs the following procedures.
     12) Repeat step 3 to 12 with the new query until precision is 0 or target precision is accomplished.
 
 
-4. Query Modification Method
-----------------------------------------------------
+## Query Modification Method
 
 The query modification in this program strictly follows Rocchio algorithm introduced in the lectures. The program applies the recommended constants in the Introduction to Information Retrieval textbook where alpha = 1, beta = 0.75, gamma = 0.15.
 
